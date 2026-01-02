@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript;Tailwind+CSS+Enthusiast+%F0%9F%8E%A8;Building+Amazing+Web+Experiences;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript;Tailwind+CSS+Enthusiast+%F0%9F%8E%A8;Building+Amazing+Web+Experiences;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,9 +19,9 @@
 ```typescript
 const geethanjanreddy = {
     name: "Peram Geethanjanreddy",
-    role: "Junior Full Stack Developer",
+    role: "Junior Frontend Developer",
     location: "India 🇮🇳",
-    education: "IT & CS Certificate @ Ekurhuleni East College",
+    education: "CSE AI & ML @ Kalasalingam University, Tamilnadu",
     
     currentFocus: [
         "Building scalable web applications",
@@ -32,22 +32,20 @@ const geethanjanreddy = {
     
     techStack: {
         frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "JavaScript"],
-        backend: ["Node.js", "Express", "REST APIs"],
+        backend: ["Python", "Flask", "REST APIs", "JSON"],
         design: ["Tailwind CSS", "Responsive Design", "UI/UX", "Figma"],
-        tools: ["Git", "VS Code", "Vercel", "GitHub", "npm"]
+        tools: ["Git", "VS Code", "Vercel", "GitHub", "npm", "pip"]
     },
     
     currentlyLearning: [
         "Advanced React Patterns", 
         "Next.js 14 App Router", 
         "Tailwind CSS Advanced Techniques",
-        "TypeScript Best Practices"
+        "TypeScript Best Practices",
+        "Flask REST API Development"
     ],
     
     goals: [
-        "Build 10+ portfolio projects",
-        "Contribute to open source",
-        "Land my first developer role",
         "Master full-stack development"
     ],
     
@@ -64,9 +62,10 @@ const geethanjanreddy = {
 ### 💻 Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -160,7 +159,8 @@ const currentGoals = {
         "Advanced TypeScript patterns",
         "Tailwind CSS best practices",
         "Next.js Server & Client Components",
-        "API design & development",
+        "Flask REST API development",
+        "Python backend architecture",
         "Testing & quality assurance"
     ]
 };
@@ -177,10 +177,11 @@ const currentGoals = {
   
 ```text
 💻 Most Used Languages:
-TypeScript   ████████████░░░░░░░░░   60%
-JavaScript   ████████░░░░░░░░░░░░░   40%
-CSS          ████░░░░░░░░░░░░░░░░░   20%
-HTML         ███░░░░░░░░░░░░░░░░░░   15%
+TypeScript   ████████████░░░░░░░░░   55%
+JavaScript   ████████░░░░░░░░░░░░░   35%
+Python       ████░░░░░░░░░░░░░░░░░   25%
+CSS          ███░░░░░░░░░░░░░░░░░░   15%
+HTML         ██░░░░░░░░░░░░░░░░░░░   10%
 ```
 
 </div>
@@ -195,9 +196,9 @@ HTML         ███░░░░░░░░░░░░░░░░░░   1
 |----------|-------------|
 | **Frontend** | React • Next.js • TypeScript • JavaScript • HTML5 • CSS3 |
 | **Styling** | Tailwind CSS • Framer Motion • Responsive Design • CSS Animations |
-| **Backend** | Node.js • Express • REST APIs • JSON |
-| **Tools & Platforms** | Git • GitHub • VS Code • Vercel • npm • Figma |
-| **Currently Learning** | Advanced React • TypeScript Patterns • Tailwind Advanced • Testing |
+| **Backend** | Python • Flask • REST APIs • JSON |
+| **Tools & Platforms** | Git • GitHub • VS Code • Vercel • npm • pip • Postman |
+| **Currently Learning** | Advanced React • TypeScript Patterns • Tailwind Advanced • Flask APIs |
 | **Soft Skills** | Problem Solving • Quick Learner • Team Player • Communication |
 
 </div>
@@ -274,6 +275,7 @@ HTML         ███░░░░░░░░░░░░░░░░░░   1
 
 **🎯 What I bring:**
 - Strong foundation in React, Next.js & TypeScript
+- Backend development with Python & Flask
 - Passion for building beautiful UIs with Tailwind CSS
 - Quick learner with problem-solving mindset
 - Eager to contribute and grow with a team
