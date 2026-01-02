@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Jr Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwindcss;Building+Amazing+Web+Experiences;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript;Tailwind+CSS+Enthusiast+%F0%9F%8E%A8;Building+Amazing+Web+Experiences;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,27 +19,39 @@
 ```typescript
 const geethanjanreddy = {
     name: "Peram Geethanjanreddy",
-    role: "Full Stack Developer",
+    role: "Junior Full Stack Developer",
     location: "India 🇮🇳",
     education: "IT & CS Certificate @ Ekurhuleni East College",
     
     currentFocus: [
         "Building scalable web applications",
         "Mastering TypeScript & Next.js",
-        "Creating beautiful UI/UX designs",
-        "Open source contributions"
+        "Creating beautiful UI/UX with Tailwind CSS",
+        "Learning best practices & design patterns"
     ],
     
     techStack: {
-        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "API Development"],
-        design: ["Figma", "Responsive Design", "UI/UX"],
-        tools: ["Git", "VS Code", "Vercel", "GitHub"]
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "JavaScript"],
+        backend: ["Node.js", "Express", "REST APIs"],
+        design: ["Tailwind CSS", "Responsive Design", "UI/UX", "Figma"],
+        tools: ["Git", "VS Code", "Vercel", "GitHub", "npm"]
     },
     
-    currentlyLearning: ["Advanced React Patterns", "System Design", "Cloud Services"],
+    currentlyLearning: [
+        "Advanced React Patterns", 
+        "Next.js 14 App Router", 
+        "Tailwind CSS Advanced Techniques",
+        "TypeScript Best Practices"
+    ],
     
-    funFact: "I turn coffee ☕ into code 💻 and bugs 🐛 into features 🚀"
+    goals: [
+        "Build 10+ portfolio projects",
+        "Contribute to open source",
+        "Land my first developer role",
+        "Master full-stack development"
+    ],
+    
+    funFact: "I turn coffee ☕ into code 💻 and Tailwind classes into beautiful UIs 🎨"
 };
 ```
 
@@ -60,7 +72,9 @@ const geethanjanreddy = {
 
 ### 🎨 Styling & Design
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-yellow?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🛠️ Tools & Platforms
@@ -99,11 +113,18 @@ const geethanjanreddy = {
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://productivity-dashboard-2026.vercel.app)
 [![GitHub](https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github)](https://github.com/Geethanjanreddy/productivity-dashboard)
 
-> 🚀 A modern task management dashboard with Next.js, React, TypeScript & Tailwind CSS
+> 🚀 A modern task management dashboard showcasing Next.js, React, TypeScript & Tailwind CSS
 > 
-> **Features:** Real-time filtering • Priority management • Beautiful animations • Responsive design
+> **Features:** Real-time filtering • Priority management • Beautiful Tailwind animations • Fully responsive • Glassmorphism UI
 
 **Tech Stack:** Next.js 14 • React 18 • TypeScript • Tailwind CSS • Framer Motion
+
+**Highlights:**
+- 🎨 Custom Tailwind CSS design system
+- ✨ Smooth animations with Framer Motion
+- 📱 Mobile-first responsive design
+- 🎯 Clean component architecture
+- 🚀 Deployed on Vercel with CI/CD
 
 ---
 
@@ -120,17 +141,27 @@ const geethanjanreddy = {
 ```javascript
 const currentGoals = {
     shortTerm: [
-        "🎨 Build more portfolio projects",
-        "📚 Master Next.js 14 App Router",
-        "🚀 Contribute to open source",
-        "💼 Land my dream developer role"
+        "🎨 Build 10+ portfolio projects",
+        "📚 Master Next.js 14 & Tailwind CSS",
+        "🚀 Contribute to open source projects",
+        "💼 Land my first developer role",
+        "📝 Document my learning journey"
     ],
     
     longTerm: [
         "🌟 Become a senior full-stack developer",
-        "👥 Build a tech community",
-        "📝 Share knowledge through blogging",
-        "🎓 Mentor aspiring developers"
+        "👥 Contribute to major open source projects",
+        "📝 Share knowledge through blogging & tutorials",
+        "🎓 Mentor other junior developers",
+        "🚀 Build products that impact lives"
+    ],
+    
+    learning: [
+        "Advanced TypeScript patterns",
+        "Tailwind CSS best practices",
+        "Next.js Server & Client Components",
+        "API design & development",
+        "Testing & quality assurance"
     ]
 };
 ```
@@ -162,12 +193,12 @@ HTML         ███░░░░░░░░░░░░░░░░░░   1
 
 | Category | Technologies |
 |----------|-------------|
-| **Frontend** | React • Next.js • TypeScript • Tailwind CSS • Framer Motion |
-| **Backend** | Node.js • Express • REST APIs |
-| **Database** | MongoDB • PostgreSQL • Firebase |
-| **DevOps** | Git • GitHub Actions • Vercel • Docker |
-| **Design** | Figma • Responsive Design • UI/UX |
-| **Soft Skills** | Problem Solving • Team Collaboration • Agile • Communication |
+| **Frontend** | React • Next.js • TypeScript • JavaScript • HTML5 • CSS3 |
+| **Styling** | Tailwind CSS • Framer Motion • Responsive Design • CSS Animations |
+| **Backend** | Node.js • Express • REST APIs • JSON |
+| **Tools & Platforms** | Git • GitHub • VS Code • Vercel • npm • Figma |
+| **Currently Learning** | Advanced React • TypeScript Patterns • Tailwind Advanced • Testing |
+| **Soft Skills** | Problem Solving • Quick Learner • Team Player • Communication |
 
 </div>
 
@@ -230,17 +261,25 @@ HTML         ███░░░░░░░░░░░░░░░░░░   1
 
 ---
 
-## 📫 Let's Collaborate!
+## 📫 Let's Connect!
 
 <div align="center">
 
-**💼 Open to:**
-- Full-time opportunities
+**💼 I'm actively looking for:**
+- Junior Developer positions
+- Internship opportunities
 - Freelance projects
 - Open source collaborations
-- Technical discussions
+- Mentorship & learning opportunities
 
-**📧 Reach out:** [LinkedIn](https://www.linkedin.com/in/geethanjan27) • [Email](mailto:your.email@example.com)
+**🎯 What I bring:**
+- Strong foundation in React, Next.js & TypeScript
+- Passion for building beautiful UIs with Tailwind CSS
+- Quick learner with problem-solving mindset
+- Eager to contribute and grow with a team
+- Portfolio of real-world projects
+
+**📧 Let's talk:** [LinkedIn](https://www.linkedin.com/in/geethanjan27) • [Email](mailto:your.email@example.com)
 
 </div>
 
