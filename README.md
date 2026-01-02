@@ -140,16 +140,12 @@ const geethanjanreddy = {
 ```javascript
 const currentGoals = {
     shortTerm: [
-        "🎨 Build 10+ portfolio projects",
+        "🎨 Build projects",
         "📚 Master Next.js 14 & Tailwind CSS",
-        "🚀 Contribute to open source projects",
-        "💼 Land my first developer role",
-        "📝 Document my learning journey"
     ],
     
     longTerm: [
         "🌟 Become a senior full-stack developer",
-        "👥 Contribute to major open source projects",
         "📝 Share knowledge through blogging & tutorials",
         "🎓 Mentor other junior developers",
         "🚀 Build products that impact lives"
@@ -212,7 +208,7 @@ HTML         ██░░░░░░░░░░░░░░░░░░░   1
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geethanjan27)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://productivity-dashboard-2026.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Geethanjanreddy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geethanjanperam@gmail.com)
 
 </div>
 
@@ -268,7 +264,6 @@ HTML         ██░░░░░░░░░░░░░░░░░░░   1
 
 **💼 I'm actively looking for:**
 - Junior Developer positions
-- Internship opportunities
 - Freelance projects
 - Open source collaborations
 - Mentorship & learning opportunities
@@ -281,7 +276,7 @@ HTML         ██░░░░░░░░░░░░░░░░░░░   1
 - Eager to contribute and grow with a team
 - Portfolio of real-world projects
 
-**📧 Let's talk:** [LinkedIn](https://www.linkedin.com/in/geethanjan27) • [Email](mailto:your.email@example.com)
+**📧 Let's talk:** [LinkedIn](https://www.linkedin.com/in/geethanjan27) • [Email](mailto:geethanjanperam@gmail.com)
 
 </div>
 
