@@ -147,7 +147,6 @@ const currentGoals = {
         "🎨 Build more portfolio projects",
         "📚 Master Next.js 14 & Tailwind CSS",
         "🚀 Contribute to open source",
-        "💼 Land my first developer role"
     ],
     
     longTerm: [
