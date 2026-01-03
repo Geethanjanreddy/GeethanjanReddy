@@ -71,7 +71,6 @@ const geethanjanreddy = {
 
 ### 🎨 Styling & Design
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive-Design-yellow?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -82,6 +81,7 @@ const geethanjanreddy = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -90,16 +90,20 @@ const geethanjanreddy = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geethanjanreddy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanjanreddy&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+<a href="https://github.com/Geethanjanreddy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geethanjanreddy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanjanreddy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</a>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Geethanjanreddy&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Geethanjanreddy&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Geethanjanreddy&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Geethanjanreddy&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Activity" />
 </div>
 
 ---
@@ -128,7 +132,7 @@ const geethanjanreddy = {
 ---
 
 <a href="https://github.com/Geethanjanreddy/productivity-dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geethanjanreddy&repo=productivity-dashboard&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geethanjanreddy&repo=productivity-dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 </div>
@@ -140,8 +144,10 @@ const geethanjanreddy = {
 ```javascript
 const currentGoals = {
     shortTerm: [
-        "🎨 Build projects",
+        "🎨 Build more portfolio projects",
         "📚 Master Next.js 14 & Tailwind CSS",
+        "🚀 Contribute to open source",
+        "💼 Land my first developer role"
     ],
     
     longTerm: [
@@ -165,9 +171,6 @@ const currentGoals = {
 ---
 
 ## 🎨 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <div align="center">
   
@@ -201,14 +204,11 @@ HTML         ██░░░░░░░░░░░░░░░░░░░   1
 
 ---
 
-## 🤝 Connect with Me
+## 📈 Profile Trophy
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geethanjan27)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://productivity-dashboard-2026.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Geethanjanreddy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geethanjanperam@gmail.com)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Geethanjanreddy&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -219,26 +219,6 @@ HTML         ██░░░░░░░░░░░░░░░░░░░   1
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Geethanjanreddy/Geethanjanreddy/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 📈 Profile Trophy
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Geethanjanreddy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -258,12 +238,26 @@ HTML         ██░░░░░░░░░░░░░░░░░░░   1
 
 ---
 
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geethanjan27)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://productivity-dashboard-2026.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Geethanjanreddy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geethanjanperam@gmail.com)
+
+</div>
+
+---
+
 ## 📫 Let's Connect!
 
 <div align="center">
 
 **💼 I'm actively looking for:**
 - Junior Developer positions
+- Internship opportunities
 - Freelance projects
 - Open source collaborations
 - Mentorship & learning opportunities
