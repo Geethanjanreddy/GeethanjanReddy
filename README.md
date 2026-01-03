@@ -256,7 +256,7 @@ HTML         ██░░░░░░░░░░░░░░░░░░░   1
 
 **💼 I'm actively looking for:**
 - Junior Developer positions
-- Internship opportunities
+- Remote job opportunities
 - Freelance projects
 - Open source collaborations
 - Mentorship & learning opportunities
